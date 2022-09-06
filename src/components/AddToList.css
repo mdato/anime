@@ -1,0 +1,13 @@
+.my-list {
+  position: absolute;
+  right: 50px;
+  bottom: 5px;
+  padding: 0.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: rgba(197, 115, 138, 0.9);
+}
+
+.scroll2 {
+  overflow-x: scroll;
+}
